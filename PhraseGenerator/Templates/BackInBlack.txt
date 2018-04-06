@@ -1,60 +1,61 @@
-@1[rp] @2[ii] @3[jj]
+@1[rp] <in> @3[jj]
 
-@1[rp] @2[ii] @3[jj] I hit the sack
-I been <too> long @4<I'm> glad to be @1[rp]
-@5Yes I am
-Let loose <from> <the> noose
-That kept <me> hanging about
-<I> <keep> looking <at> <the> sky because <it> <is> getting me high
-Forget <the> hearse because I will never die
-I got nine lives [nn1] 's eyes
+@1[rp] <in> @3[jj] 
+<I> <hit> <the> sack
+<I> <been> <too> long <I'm> glad <to> <be> @1[rp]
+@5Yes I'm
+<Let> loose <from> <the> noose
+<That> kept <me> hanging <about>
+<I> <keep> looking <at> <the> sky <because> <it> <is> getting me high
+<Forget> <the> hearse <because> <I> <will> never die
+<I> <got> nine lives [nn1] 's eyes
 Using <every> one <of> <them> <and> running wild
 
-@7Because @4<I'm> @1[rp]
-@5Yes @4<I'm> @1[rp] 
-@6Well @4<I'm> @1[rp]
-@5Yes @4<I'm> @1[rp]
-@6Well @4<I'm> @1[rp] @1[rp]
-@6Well @4<I'm> @1[rp] @2[ii] @3[jj]
-@5Yes @4<I'm> @1[rp] @2[ii] @3[jj]
+<Because> <I'm> @1[rp]
+<Yes> <I'm> @1[rp] 
+<Well> <I'm> @1[rp]
+<Yes> <I'm> @1[rp]
+<Well> <I'm> @1[rp] @1[rp]
+<Well> <I'm> @1[rp] <in> @3[jj]
+<Yes> <I'm> @1[rp] <in> @3[jj]
 
-@1[rp] in the @1[rp] of a Cadillac
-<Number> one <with> a bullet @4<I'm> a power pack
-@5Yes I am
+@1[rp] <in> <the> <back> of a [NN1]
+<Number> one <with> a bullet <I'm> a power pack
+<Yes> I am
 <In> <a> bang <with> <the> gang
 <They> <got> <to> catch me <if> <they> want me <to> hang
-@6Cause @4<I'm> @1[rp] <on> <the> track and @4<I'm> beating <the> flack
-Nobody <is> <going> <to> get <me> <on> another rap
-<So> look at <me> <now> @4<I'm> just making <my> play
-<Do> <not> try <to> push <your> luck <just> get <out> <of> my way
+<Cause> <I'm> @1[rp] <on> <the> track and <I'm> beating <the> flack
+Nobody <is> <going> <to> get <me> <on> <another> rap
+<So> look at <me> <now> <I'm> <just> making <my> play
+<Do> <not> try <to> push <your> luck <just> <get> <out> <of> <my> way
 
-@7Because @4<I'm> @1[rp]
-@5Yes @4<I'm> @1[rp]
-@6Well @4<I'm> @1[rp]
-@5Yes @4<I'm> @1[rp]
-@6Well @4<I'm> @1[rp] @1[rp]
-@6Well @4<I'm> @1[rp] @2[ii] @3[jj]
-@5Yes @4<I'm> @1[rp] @2[ii] @3[jj]
+<Because> <I'm> @1[rp]
+<Yes> <I'm> @1[rp]
+<Well> <I'm> @1[rp]
+<Yes> <I'm> @1[rp]
+<Well> <I'm> @1[rp] @1[rp]
+<Well> <I'm> @1[rp] <in> @3[jj]
+<Yes> <I'm> @1[rp] <in> @3[jj]
 
-@6Well @4<I'm> @1[rp] @5yes I'm @1[rp]
-@6Well @4<I'm> @1[rp] @5yes I'm @1[rp]
-@6Well @4<I'm> @1[rp] @1[rp]
-@6Well @4<I'm> @1[rp] @2[ii] @3[jj]
-@5Yes @4<I'm> @1[rp] @2[ii] @3[jj]
+<Well> <I'm> @1[rp] <yes> I'm @1[rp]
+<Well> <I'm> @1[rp] <yes> I'm @1[rp]
+<Well> <I'm> @1[rp] @1[rp]
+<Well> <I'm> @1[rp] <in> @3[jj]
+<Yes> <I'm> @1[rp] <in> @3[jj]
 
-[uh] @8yeah
-@9Oh @8yeah
-@5Yes I am
-@9Oh @8yeah, @8yeah @9oh @8yeah
-@1[rp] @2[ii] now
+<Ho> @8yeah
+<Oh> @8yeah
+<Yes> I am
+<Oh> @8yeah, @8yeah <oh> @8yeah
+@1[rp] <in> now
 
-@6Well @4<I'm> @1[rp], @4<I'm> @1[rp]
-@1[rp], (@4<I'm> @1[rp])
-@1[rp], (@4<I'm> @1[rp])
-@1[rp], (@4<I'm> @1[rp])
-@1[rp], (@4<I'm> @1[rp])
+<Well> <I'm> @1[rp], <I'm> @1[rp]
+@1[rp], (<I'm> @1[rp])
+@1[rp], (<I'm> @1[rp])
+@1[rp], (<I'm> @1[rp])
+@1[rp], (<I'm> @1[rp])
 @1[rp]
-@1[rp] @2[ii] @3[jj]
-@5Yes @4<I'm> @1[rp] @2[ii] @3[jj]
+@1[rp] <in> @3[jj]
+<Yes> <I'm> @1[rp] <in> @3[jj]
 
-[ii] of [nn1]
+<Out> of [nn1]
