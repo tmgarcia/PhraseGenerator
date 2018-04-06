@@ -51,7 +51,7 @@ Last <thing> <I> remember, I was
 Running <for> <the> door
 I <had> <to> find <the> passage back
 <To> <the> place <I> <was> <before>
-"[vv0], " <said> <the> night <man>,
+"[vv0], " <said> <the> [nn] <man>,
 "<We> <are> programmed <to> receive.
 <You> <can> [vv0] <any> time <you> <like>,
 <But> <you> can <never> leave!"
